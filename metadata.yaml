@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8411'
     url: http://www.gutenberg.org/2009/agents/8411
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Willard_Deming
+covers:
+- cover_type: archival
+  image_path: 66596-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Grinnell, George Bird
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: https://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66596#The-Punishment-of-the-Stingy-and-Other-Indian-Stories
 gutenberg_issued: '2021-10-22'
 identifiers:
   gutenberg: '66596'
